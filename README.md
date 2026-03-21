@@ -1,64 +1,78 @@
-<h1 align="center">Hi 👋, I'm Sandun Gunawardana</h1>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      HEADER BANNER                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<h3 align="center">
-  Aspiring ML Engineer • Backend Developer • Innovator • Full-Stack Developer <br/>
-  Building AI-Driven Solutions for Real-World Impact
-</h3>
+<div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0e75b6&height=200&section=header&text=Hi%20There!%20I'm%20Sandun%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Undergraduate%20at%20IIT%2C%20Sri%20Lanka%20%F0%9F%8C%9F&descAlignY=58&descSize=20&animation=fadeIn)
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 PROFILE VIEWS                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<br>
+<p align="right">
+  <h3>Profile Views :-</h3>
+  <img src="https://komarev.com/ghpvc/?username=sandun-gunawardana&label=Profile%20views&color=0e75b6&style=flat" alt="sandun-gunawardana" />
+</p>
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 TYPING ANIMATION                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <p align="center">
-  🎓 Computer Science Undergraduate @ University of Westminster (UK) via IIT Sri Lanka <br/>
-  🌱 Lifelong Learner | Turning Ideas into Intelligent Systems
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" alt="Typing SVG" />
 </p>
 
-<!-- ========================= -->
-<!--  PROFILE METRICS (STABLE) -->
-<!-- ========================= -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Chamath-2004?label=Followers&style=for-the-badge&color=00FF9D" />
-  <img src="https://img.shields.io/github/stars/Chamath-2004?label=Total%20Stars&style=for-the-badge&color=00FF9D" />
-  <img src="https://komarev.com/ghpvc/?username=Chamath-2004&label=Profile%20Views&color=00FF9D&style=for-the-badge" />
-</p>
+<br/>
 
-<!-- Typing Animation -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--           GIF (right) + ABOUT ME                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<p><img align="right" src="https://github.com/Sandun-Gunawardana/Sandun-Gunawardana/blob/main/animation_500_kxa883sd.gif" alt="Sandun Gunawardana" /></p>
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=820&lines=Aspiring+Machine+Learning+Engineer;Computer+Science+Undergraduate;Tech+Enthusiast;Full-Stack+Developer;Data+Driven+Problem+Solver+%26+Innovator"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=820&lines=Aspiring+Machine+Learning+Engineer;+Computer+Science+Undergraduate;AWS+%7C+;Full-Stack+Developer;Data+Driven+Problem+Solver+%26+Innovator"
     alt="Typing SVG"
   />
 </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sandun-gunawardana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+### 🚀 About Me
 
-<p align="right" style="margin-top:6px;">
-  <img src="https://github.com/Sandun-Gunawardana/Sandun-Gunawardana/raw/main/animation_500_kxa883sd.gif" alt="animation-right" width="140" style="border-radius:8px;"/>
-</p>
+```yaml
+name       : Sandun Gunawardana
+location   : Sri Lanka 🇱🇰
+university : IIT (University of Westminster)
+focus      : Software Dev · AI/ML · Full Stack
+```
 
-<p align="center">
-  <img src="https://github.com/Sandun-Gunawardana/Sandun-Gunawardana/raw/main/animation_500_kxa883sd.gif" alt="animation" width="220" style="border-radius:12px;"/>
-</p>
+<br/>
 
-- 💻 Passionate about Software Development, AI/ML, and Problem Solving
+💻 &nbsp;Passionate about **Software Development, AI/ML**  
+🌱 &nbsp;Learning **Machine Learning & Algorithms**  
+🔨 &nbsp;Building **real-world coursework systems**  
+⚡ &nbsp;I love solving problems that **actually matter**  
+📫 &nbsp;[sandun.20240627@iit.ac.lk](mailto:sandun.20240627@iit.ac.lk)
 
-- 🌱 Currently learning Machine Learning, Algorithms & Full Stack Development
+<br/>
 
-- 🚀 Building real-world coursework projects and team systems
+**Connect with me:**
 
-- ⚡ Fun fact: I enjoy building systems that actually solve real problems
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandungunawardana1/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/sandun-gunawardana)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_sandun_gunawardana_)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61572290289658)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sandun-gunawardana)
 
-- 📫 Reach me: <a href="mailto:sandun.20240627@iit.ac.lk">sandun.20240627@iit.ac.lk</a>
-
----
-
-<h3 align="left">Connect with me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sandungunawardana1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-  <a href="https://www.facebook.com/profile.php?id=61572290289658" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/></a>
-  <a href="https://instagram.com/_sandun_gunawardana_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
-  <a href="https://www.hackerrank.com/sandun-gunawardana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/></a>
-  <a href="https://twitter.com/sandun-gunawardana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
-</p>
+<br/>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   TECHNICAL SKILLS                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🧠 Technical Skills
 
@@ -91,6 +105,7 @@
 </table>
 
 ---
+
 
 ---
 
@@ -156,21 +171,42 @@
   </tr>
 </table>
 
-<h3>Statistics</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandun-gunawardana&show_icons=true&locale=en&theme=dark&layout=compact" alt="Top languages"/>
-</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandun-gunawardana&show_icons=true&locale=en&theme=dark" alt="GitHub stats"/>
-</p>
+</div>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandun-gunawardana&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak"/>
-</p>
+<br/>
 
 ---
 
-<p align="left"> <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Follow on Twitter"/></a> </p>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     STATISTICS                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-[Sandun-Gunawardana](https://github.com/Sandun-Gunawardana)
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandun-gunawardana&show_icons=true&locale=en&theme=tokyonight&layout=compact&border_radius=12" alt="Top languages" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=sandun-gunawardana&show_icons=true&locale=en&theme=tokyonight&border_radius=12" alt="GitHub stats" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandun-gunawardana&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    FOOTER WAVE                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:1a1a2e,100:0d1117&height=120&section=footer)
+
+</div>
