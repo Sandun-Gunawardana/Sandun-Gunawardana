@@ -24,7 +24,7 @@
 <p><img align="right" src="https://github.com/Sandun-Gunawardana/Sandun-Gunawardana/blob/main/animation_500_kxa883sd.gif" alt="Sandun Gunawardana" /></p>
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=820&lines=Aspiring+Machine+Learning+Engineer;+Computer+Science+Undergraduate;AWS+%7C+;Full-Stack+Developer;Data+Driven+Problem+Solver+%26+Innovator"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=820&lines=Aspiring+Machine+Learning+Engineer;+Computer+Science+Undergraduate;Full-Stack+Developer;Data+Driven+Problem+Solver+%26+Innovator"
     alt="Typing SVG"
   />
 </p>
