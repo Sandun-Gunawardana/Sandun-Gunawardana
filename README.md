@@ -1,5 +1,31 @@
 <h1 align="center">Hi 👋, I'm Sandun Gunawardana</h1>
-<h3 align="center">Undergraduate at IIT, Sri Lanka 🌟</h3>
+
+<h3 align="center">
+  Aspiring ML Engineer • Backend Developer • Innovator • Full-Stack Developer <br/>
+  Building AI-Driven Solutions for Real-World Impact
+</h3>
+
+<p align="center">
+  🎓 Computer Science Undergraduate @ University of Westminster (UK) via IIT Sri Lanka <br/>
+  🌱 Lifelong Learner | Turning Ideas into Intelligent Systems
+</p>
+
+<!-- ========================= -->
+<!--  PROFILE METRICS (STABLE) -->
+<!-- ========================= -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Chamath-2004?label=Followers&style=for-the-badge&color=00FF9D" />
+  <img src="https://img.shields.io/github/stars/Chamath-2004?label=Total%20Stars&style=for-the-badge&color=00FF9D" />
+  <img src="https://komarev.com/ghpvc/?username=Chamath-2004&label=Profile%20Views&color=00FF9D&style=for-the-badge" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=820&lines=Aspiring+Machine+Learning+Engineer;Computer+Science+Undergraduate;Tech+Enthusiast;Full-Stack+Developer;Data+Driven+Problem+Solver+%26+Innovator"
+    alt="Typing SVG"
+  />
+</p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sandun-gunawardana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
@@ -66,14 +92,6 @@
 
 ---
 
-### 📱 Mobile Development
-
-<table>
-  <tr>
-    <td align="center" width="120"><img src="https://reactnative.dev/img/header_logo.svg" width="45"/><br/>React Native</td>
-  </tr>
-</table>
-
 ---
 
 ### ⚙️ Backend & Frameworks
@@ -137,20 +155,6 @@
     <td align="center" width="120"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45"/><br/>Blender</td>
   </tr>
 </table>
-
----
-
-### 🔩 Hardware & Embedded
-
-<table>
-  <tr>
-    <td align="center" width="120"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45"/><br/>Arduino</td>
-  </tr>
-</table>
-
-</div>
-
----
 
 <h3>Statistics</h3>
 <p>
