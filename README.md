@@ -188,7 +188,7 @@ focus      : Software Dev · AI/ML · Full Stack
 <br/><br/>
 
 <a href="https://github.com/sandun-gunawardana">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=sandun-gunawardana&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=sandun-gunawardana&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </a>
 
 </div>
