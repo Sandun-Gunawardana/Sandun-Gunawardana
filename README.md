@@ -177,13 +177,19 @@ focus      : Software Dev · AI/ML · Full Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandun-gunawardana&show_icons=true&locale=en&theme=tokyonight&layout=compact&border_radius=12" alt="Top languages" height="170"/>
+<a href="https://github.com/sandun-gunawardana">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandun-gunawardana&show_icons=true&locale=en&theme=tokyonight&layout=compact&border_radius=12" alt="Top languages" height="170"/>
+</a>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=sandun-gunawardana&show_icons=true&locale=en&theme=tokyonight&border_radius=12" alt="GitHub stats" height="170"/>
+<a href="https://github.com/sandun-gunawardana">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandun-gunawardana&show_icons=true&locale=en&theme=tokyonight&border_radius=12" alt="GitHub stats" height="170"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandun-gunawardana&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+<a href="https://github.com/sandun-gunawardana">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=sandun-gunawardana&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+</a>
 
 </div>
 
