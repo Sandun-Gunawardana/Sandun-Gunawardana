@@ -158,6 +158,9 @@ focus      : Software Dev · AI/ML · Full Stack
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45"/><br/>Illustrator</td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45"/><br/>Photoshop</td>
     <td align="center" width="120"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45"/><br/>Blender</td>
+     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="45"/><br/>Premiere Pro</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" width="45"/><br/>After Effects</td>
+    <td align="center" width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Adobe_Audition_CS6_icon.png" width="45"/><br/>Audition</td>
   </tr>
 </table>
 
